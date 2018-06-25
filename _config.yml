@@ -18,6 +18,10 @@ pub_year: 2018
 github_username: cbgoodman
 twitter_username: cbgoodman
 
+# workshop information
+workshop_date: October 10, 2018
+workshop_location: University of Nebraska at Omaha
+
 # add the full url for the github repository
 repo: "https://github.com/codesocsci/coding-workshop/"
 

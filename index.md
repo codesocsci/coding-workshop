@@ -6,7 +6,7 @@ title: Home
 
 ## Coding in Social Science
 <h4>{{ site.workshop_date }} | {{ site.workshop_location }}</h4>
-
+---
 Workshop abstract here.
 
 Learn how to create a super quick easy website for a workshop by writing a few markdown files!

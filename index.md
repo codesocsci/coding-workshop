@@ -5,7 +5,7 @@ title: Home
 {% include figure.html file="College_of_Education_University_of_Idaho_Workshop_scene_2273.jpg" alt="intro image here" width="75%" %}
 
 <div class="intro">
-<h2>{{ site.title }}</h2>
+<h2>{{ site.title | escape }}</h2>
 <h4>{{ site.workshop_date }} | {{ site.workshop_location }}</h4>
 </div>
 

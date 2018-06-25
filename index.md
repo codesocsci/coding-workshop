@@ -4,9 +4,9 @@ title: Home
 
 {% include figure.html file="College_of_Education_University_of_Idaho_Workshop_scene_2273.jpg" alt="intro image here" width="75%" %}
 
-## Coding in Social Science
+<h2>{{ site.title }}</h2>
 <h4>{{ site.workshop_date }} | {{ site.workshop_location }}</h4>
----
+
 Workshop abstract here.
 
 Learn how to create a super quick easy website for a workshop by writing a few markdown files!

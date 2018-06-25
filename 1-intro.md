@@ -5,13 +5,4 @@ nav: true
 
 # Introduction
 
-One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
-It provides free static web hosting from any repository.
-Gh-pages is intended to host relatively simple sites for your GitHub portfolio, project, or documentation.
-Because it is free and a valuable transferable skill, this is a great option for teaching and learning.
-
-Many organizations are using GitHub to collaboratively create and publish public websites. 
-For example: 
-- [Programming Historian](http://programminghistorian.org/)
-- [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/)
-- this site!
+Code in Stata is housing in `.do` files. These are text files with a `.do` file extension that Stata recognizes as containing code it can run. From a `.do` file, we can open data files, import text and other kinds of non-Stata data files, create and modify variables, and run statistical analyses. Importantly, a `.do` file contains a record of all of the data cleaning and preparation, modifications, and analyses you've run for a particular project. Maintaining a clean and readable `.do` file is incredibly helpful in the research process, especially when you've been away from the project for some time.

@@ -3,8 +3,10 @@ title: Prep
 nav: true
 ---
 
-# Workshop Prep 
+# Workshop Prep
 
-1. Have a [GitHub](https://github.com) account.
-2. Fork or import this [repository](https://github.com/evanwill/workshop-template).
-3. Probably want to have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed (although you could do it all in the GitHub web interface if you *really* wanted to).
+1. Have [Stata](https://www.stata.com) installed
+2. Have a text editor you are comfortable with installed. While you can use the built in editor in Stata, there are more powerful options with syntax highlighting and a more robust copy-paste features (see [here](http://fmwww.bc.edu/repec/bocode/t/textEditors.html)).
+  - I personally use [Atom](https://atom.io/) with the [`language-stata`](https://atom.io/packages/language-stata) and [`stata-exec`](https://atom.io/packages/stata-exec) packages by [Kyle Barron](https://github.com/kylebarron).
+  - I have used [Textwranger](http://www.barebones.com/products/textwrangler/) (a mac specific app) with Stata integration courtesy of [Jonathan Bearak](http://bearak.org/code/text/) in the past.
+3. Have an open mind about writing code. It isn't hard; just something to learn.

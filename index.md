@@ -4,8 +4,10 @@ title: Home
 
 {% include figure.html file="College_of_Education_University_of_Idaho_Workshop_scene_2273.jpg" alt="intro image here" width="75%" %}
 
+<div class="intro">
 <h2 class="intro">{{ site.title }}</h2>
 <h4>{{ site.workshop_date }} | {{ site.workshop_location }}</h4>
+</div>
 
 As empirical social scientists, we write code. A lot of code. For many of us, this is means writing code in Stata to do all kinds of things. Clean data, manipulate data, analyze data, table data. You get the point. We battle with code. Marathon battles late at night to get our code the run properly. Sometimes we write code, leave it alone for a long time, and come back to it only to be puzzled why we must re-fight the same battles.
 

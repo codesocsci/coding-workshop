@@ -4,10 +4,8 @@ title: Home
 
 {% include figure.html file="College_of_Education_University_of_Idaho_Workshop_scene_2273.jpg" alt="intro image here" width="75%" %}
 
-# Coding in Social Science
-{{ site.workshop_date }} | {{ site.workshop_location }}
-
-> hosted by [University of Nebraska at Omaha](http://spa.unomaha.edu/) {{ site.pub_year }}
+## Coding in Social Science
+<h4>{{ site.workshop_date }} | {{ site.workshop_location }}</h4>
 
 Workshop abstract here.
 

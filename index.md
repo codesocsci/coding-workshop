@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: front
 ---
 
 {% include figure.html file="College_of_Education_University_of_Idaho_Workshop_scene_2273.jpg" alt="intro image here" width="75%" %}
